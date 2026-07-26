@@ -185,7 +185,7 @@ Este repositorio forma parte de **Archipiélago Vivo**, una iniciativa colaborat
 
 Más información:
 
-https://github.com/Archipielago-Vivo
+https://github.com/ArchipielagoVivo
 
 ---
 
